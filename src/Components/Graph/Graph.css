@@ -1,0 +1,7 @@
+.graph-container{
+    display: flex;
+    justify-content:center
+}
+.legend-container{
+    margin-right: 10px;
+}

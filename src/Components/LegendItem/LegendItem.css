@@ -1,0 +1,33 @@
+.blue{
+  width: 20px;
+  height: 20px;
+  background-color: blue;
+  margin: 1px;
+}
+.purple{
+  width: 20px;
+  height: 20px;
+  background-color: purple;
+  margin: 1px;
+}
+.orange{
+  width: 20px;
+  height: 20px;
+  background-color: orange;
+  margin: 1px;
+}
+.yellow{
+  width: 20px;
+  height: 20px;
+  background-color: yellow;
+  margin: 1px;
+}
+.red{
+  width: 20px;
+  height: 20px;
+  background-color: red;
+  margin: 1px;
+}
+.legend-item-container{
+display: flex;
+}
